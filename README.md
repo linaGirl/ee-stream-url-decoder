@@ -1,5 +1,7 @@
 # ee-stream-url-decoder
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-stream-url-decoder.svg)](https://greenkeeper.io/)
+
 stream decodes url encoded data
 
 ## installation
