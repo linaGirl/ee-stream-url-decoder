@@ -17,9 +17,9 @@
         "url"                   : "https://github.com/eventEmitter/ee-stream-url-decoder/issues"
     }
     , "dependencies": {
-          "ee-class"            : "0.3.x"
-        , "ee-log"              : "0.2.x"
-        , "ee-types"            : "0.1.x"
+          "ee-class"            : "~1.4.0"
+        , "ee-log"              : "~2.0.2"
+        , "ee-types"            : "~2.1.2"
     }
     , "devDependencies": {}
     , "optionalDependencies": {}
